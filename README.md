@@ -7,7 +7,7 @@
 
 ## Steps To install
 
-- `git clone git@github.com:Mahmoud-Elkebeer/single-page-application`
+- `git clone git@github.com:Mahmoud-Elkebeer/single-page-application.get`
 - `cd jumia-market-test`
 - `composer install` 
 - `npm install`
